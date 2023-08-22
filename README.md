@@ -1,2 +1,2 @@
 # SPRINGBOOT
-This is repository is about spring boot integration with different nodes.
+This is repository is about spring boot application integration with MYSQL using SPRING DataJPA.
